@@ -44,6 +44,10 @@ The custom page is loaded inside the shared profile shell. It can use the shared
 
 Remove that member's path from `members/manifest.js`. Their folder can then be removed from the repository if it is no longer needed.
 
+## Contributing changes
+
+Anyone who wants to contribute to or update the project must create their own branch, make and test their changes there, and submit a pull request for review. Changes should be merged into the `main` branch through the pull request workflow.
+
 ## Deploying on GitHub Pages
 
 Push the repository to GitHub, then open **Settings → Pages**, choose **Deploy from a branch**, select the default branch and `/ (root)`, and save. The site will be available at `https://<username>.github.io/<repository>/`.

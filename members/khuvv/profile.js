@@ -13,8 +13,8 @@ window.GROUP_MEMBERS.push({
   accent: "teal",
   bio: "I work at the intersection of combinatorics, coding theory, and combinatorial optimization, with a focus on mathematical structures that can make communication and decision systems more reliable.",
   interests: ["Coding theory", "Combinatorics", "Combinatorial optimization"],
-  email: "vu.vankhu@vinuni.edu.vn",
-  links: [{ label: "VinUniversity profile", url: "https://vinuni.edu.vn/" }],
+  email: "khu.vv@vinuni.edu.vn",
+  links: [{ label: "VinUniversity profile", url: "https://vinuni.edu.vn/vi/people/vu-van-khu-2/" }],
   custom: {
     label: "Current focus",
     text: "Building a shared research program around constrained sequences, graph structures, and optimization methods for communication and data systems."

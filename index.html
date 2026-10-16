@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Combinatorial Optimization Research Group at VinUniversity." />
+    <title>Combinatorial Optimization Research Group · VinUniversity</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="CO VinU home">
+        <img src="logo.png" alt="VinUniversity logo" />
+        <span><strong>CO · VinU</strong><small>Research Group</small></span>
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <a href="#research">Research</a>
+        <a href="#people">People</a>
+        <a href="#about">About</a>
+        <a class="nav-button" href="#connect">Get in touch <span>↗</span></a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section-pad">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> VinUniversity · Hanoi, Vietnam</p>
+          <h1>Making difficult<br /><em>choices</em> tractable.</h1>
+          <p class="hero-intro">We study the structures, algorithms, and applications behind better decisions when the possibilities are too many to count.</p>
+          <div class="hero-actions">
+            <a class="button button-dark" href="#research">Explore our research <span>↓</span></a>
+            <a class="text-link" href="#people">Meet the group <span>→</span></a>
+          </div>
+        </div>
+        <div class="hero-visual" aria-label="Combinatorial optimization visual">
+          <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+          <div class="node node-a">01</div><div class="node node-b">10</div><div class="node node-c">11</div><div class="node node-d">00</div>
+          <svg class="network" viewBox="0 0 500 430" fill="none" aria-hidden="true">
+            <path d="M78 110L211 67L391 143L324 277L420 365L198 356L78 110Z" stroke="currentColor" stroke-width="1.5" />
+            <path d="M211 67L198 356M78 110L324 277M391 143L198 356M78 110L420 365M391 143L324 277" stroke="currentColor" stroke-width="1" stroke-dasharray="4 8" />
+            <circle cx="78" cy="110" r="7" fill="currentColor"/><circle cx="211" cy="67" r="7" fill="currentColor"/><circle cx="391" cy="143" r="7" fill="currentColor"/><circle cx="324" cy="277" r="7" fill="currentColor"/><circle cx="420" cy="365" r="7" fill="currentColor"/><circle cx="198" cy="356" r="7" fill="currentColor"/>
+          </svg>
+          <span class="visual-label label-top">Search space</span><span class="visual-label label-bottom">Optimal route</span>
+        </div>
+      </section>
+
+      <section id="about" class="statement section-pad">
+        <div class="section-kicker">01 / Our perspective</div>
+        <div class="statement-content">
+          <h2>Where discrete structures meet <span>real decisions.</span></h2>
+          <p>Combinatorial optimization gives us a language for problems with many possible arrangements: routing a fleet, designing a code, or finding a sequence with exactly the right properties. Our group brings together theory, computation, and application to make those problems understandable and solvable.</p>
+        </div>
+      </section>
+
+      <section id="research" class="research section-pad">
+        <div class="section-heading"><div><div class="section-kicker">02 / Research directions</div><h2>Four ways into<br /><span>the problem.</span></h2></div><p>Our work moves between foundational questions and useful systems. These pillars describe the shared territory of the group.</p></div>
+        <div class="pillar-grid">
+          <article class="pillar pillar-teal"><div class="pillar-top"><span class="pillar-index">01</span><span class="pillar-mark">⌘</span></div><h3>Coding<br />Theory</h3><p>Constructing codes that protect information, coordinate systems, and recover from error.</p><span class="pillar-arrow">↗</span></article>
+          <article class="pillar pillar-violet"><div class="pillar-top"><span class="pillar-index">02</span><span class="pillar-mark">◌</span></div><h3>Communication</h3><p>Designing reliable communication and storage systems under physical and practical constraints.</p><span class="pillar-arrow">↗</span></article>
+          <article class="pillar pillar-amber"><div class="pillar-top"><span class="pillar-index">03</span><span class="pillar-mark">✣</span></div><h3>Combinatorics</h3><p>Studying sequences, graphs, and arrangements through their properties, patterns, and constructions.</p><span class="pillar-arrow">↗</span></article>
+          <article class="pillar pillar-blue"><div class="pillar-top"><span class="pillar-index">04</span><span class="pillar-mark">⟲</span></div><h3>Combinatorial<br />Optimization</h3><p>Finding the best feasible choice among a vast number of possible solutions.</p><span class="pillar-arrow">↗</span></article>
+        </div>
+        <figure class="pillar-figure"><img src="group_pillar.png" alt="Diagram of the group's four research pillars" /><figcaption>The group’s research map, from coding and communication to combinatorics and optimization.</figcaption></figure>
+      </section>
+
+      <section id="people" class="people section-pad">
+        <div class="section-heading people-heading"><div><div class="section-kicker">03 / The group</div><h2>People who<br /><span>think in patterns.</span></h2></div><a class="text-link" href="#connect">Join the conversation <span>→</span></a></div>
+        <div id="member-grid" class="member-grid" aria-live="polite"></div>
+      </section>
+
+      <section id="connect" class="connect section-pad"><div class="connect-inner"><div class="section-kicker">04 / Start a conversation</div><h2>Have a hard problem?<br /><span>Let’s explore it.</span></h2><p>We welcome conversations with prospective students, collaborators, and people working on problems where structure can make a difference.</p><a class="button button-light" href="mailto:combinatorial.optimization@vinuni.edu.vn">Email the group <span>↗</span></a></div><div class="connect-scribble">CO<br /><small>VinU</small></div></section>
+    </main>
+
+    <footer class="site-footer"><div class="footer-brand"><img src="logo.png" alt="VinUniversity" /><span>Combinatorial Optimization<br />Research Group</span></div><p>VinUniversity · Hanoi, Vietnam</p><a href="#top">Back to top ↑</a></footer>
+    <script src="data/members.js"></script><script src="script.js"></script>
+  </body>
+</html>

@@ -22,7 +22,7 @@
       return;
     }
     grid.innerHTML = members.map((member) => `
-      <a class="member-card" href="member.html?id=${encodeURIComponent(member.slug)}">
+      <a class="member-card" href="profile.html?id=${encodeURIComponent(member.slug)}">
         <div class="member-avatar avatar-${member.accent || "teal"}">${initials(member)}</div>
         <div class="member-info"><p class="member-role">${member.role || "Research member"}</p><h3>${member.displayName || member.name}</h3><p>${member.affiliation || "Combinatorial Optimization Research Group"}</p></div><span class="card-arrow">↗</span>
       </a>`).join("");

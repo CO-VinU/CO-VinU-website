@@ -1,0 +1,1203 @@
+{
+  "personal_info": {
+    "name": "Vu Van Khu",
+    "title": "Assistant Professor",
+    "affiliation": "College of Engineering and Computer Science, VinUniversity, Hanoi, Vietnam",
+    "phone": "+84 943923141",
+    "email": "khu.vv@vinuni.edu.vn",
+    "avatar_url": ""
+  },
+
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "year": "2018",
+        "degree": "Ph.D in Mathematics",
+        "institution": "Nanyang Technological University (NTU), Singapore"
+      },
+      {
+        "year": "2010",
+        "degree": "B.Sc in Mathematics",
+        "institution": "Vietnam National University (VNU), Hanoi",
+        "honors": "Valedictorian of Class of 2010"
+      }
+    ]
+  },
+
+  "employment": {
+    "title": "Employment",
+    "items": [
+      {
+        "year": "2025 - Present",
+        "start_year": "2025",
+        "end_year": "Present",
+        "position": "Assistant Professor",
+        "institution": "VinUniversity, Hanoi, Vietnam",
+        "start_date": "Aug 2025"
+      },
+      {
+        "year": "2025",
+        "start_year": "2025",
+        "end_year": "2025",
+        "position": "Senior Research Fellow",
+        "institution": "Singapore University of Technology and Design"
+      },
+      {
+        "year": "2020 - 2025",
+        "start_year": "2020",
+        "end_year": "2025",
+        "position": "Senior Research Fellow",
+        "institution": "National University of Singapore"
+      },
+      {
+        "year": "2018 - 2019",
+        "start_year": "2018",
+        "end_year": "2019",
+        "position": "Research Fellow",
+        "institution": "Nanyang Technological University, Singapore"
+      },
+      {
+        "year": "2010 - 2012",
+        "start_year": "2010",
+        "end_year": "2012",
+        "position": "Lecturer",
+        "institution": "Vietnam National University, Hanoi"
+      }
+    ]
+  },
+
+  "honors_awards_scholarships": {
+    "title": "Honors - Awards - Scholarships",
+    "items": [
+      {
+        "year": "2012",
+        "award": "NTU Research Scholarship",
+        "awarded_by": "Nanyang Technological University, Singapore"
+      },
+      {
+        "year": "2010",
+        "award": "Valedictorian in Faculty of Mathematics, Informatics and Mechanics",
+        "awarded_by": "VNU, Hanoi"
+      },
+      {
+        "year": "2010",
+        "award": "Graduate with rank 1st of class in GPA",
+        "awarded_by": "VNU, Hanoi"
+      },
+      {
+        "year": "2010",
+        "award": "First Prize in Student Research Award",
+        "description": "Among all scientific papers of undergraduate students in VNU, Hanoi",
+        "awarded_by": "VNU, Hanoi"
+      },
+      {
+        "year": "2010",
+        "award": "Second Prize in Student Research Award",
+        "description": "Among selected papers of undergraduate students from all universities in Vietnam",
+        "awarded_by": "Ministry of Education and Training, Vietnam"
+      },
+      {
+        "year": "2010",
+        "award": "Best Presentation Award",
+        "description": "Student Research Conference",
+        "awarded_by": "VNU"
+      },
+      {
+        "year": "2009",
+        "award": "January Star Prize",
+        "description": "The Highest Honor of Vietnamese Student Association (Awarded annually to at most one student in each university)",
+        "awarded_by": "Vietnamese Student Association"
+      },
+      {
+        "year": "2008",
+        "award": "Third Prize in National Mathematics Olympiad for Students, Vietnam",
+        "awarded_by": "Vietnam Mathematical Society"
+      },
+      {
+        "year": "2007",
+        "award": "Third Prize in National Informatics Olympiad for Students, Vietnam",
+        "awarded_by": "Vietnam Association for Information Processing"
+      },
+      {
+        "year": "2007 - 2009",
+        "award": "Wantanabe-Kanda Scholarship",
+        "description": "Awarded in three consecutive years 2007, 2008, 2009",
+        "awarded_by": "Wantanabe-Kanda Foundation"
+      },
+      {
+        "year": "2008",
+        "award": "Mitsubishi Scholarship 2008",
+        "description": "Awarded to outstanding students in VNU Hanoi",
+        "awarded_by": "Mitsubishi"
+      },
+      {
+        "year": "2009",
+        "award": "Yamada Scholarship 2009",
+        "description": "Awarded to outstanding students in VNU Hanoi",
+        "awarded_by": "Yamada Foundation"
+      },
+      {
+        "year": "2007 - 2009",
+        "award": "Outstanding young faces of VNU, Hanoi",
+        "description": "Awarded annually to less than 0.5% of students and young faculties in three consecutive years 2007, 2008, 2009",
+        "awarded_by": "VNU, Hanoi"
+      },
+      {
+        "year": "2007",
+        "award": "GE Foundation Scholar-Leader Scholarship",
+        "description": "Awarded annually to 10 outstanding students",
+        "awarded_by": "GE Foundation"
+      },
+      {
+        "year": "2006 - 2010",
+        "award": "VNU Hanoi University of Sciences Scholarship",
+        "description": "Awarded to top 5% of class in GPA in eight consecutive semesters",
+        "awarded_by": "VNU Hanoi University of Science"
+      }
+    ]
+  },
+
+  "research_interests": {
+    "title": "Research Interests",
+    "description": "My ultimate goal is to study and develop mathematical tools in combinatorics, algebra, probability and statistic to invent original coding techniques and new algorithms to solve real world problems. In particular, my research currently concentrates on coding theory including error correcting codes, constrained codes and rewriting codes with applications in several data storage systems. I am also interested in applying our techniques to protect the privacy of DNA data, to investigate the constrained languages, and to improve the accuracy of the computing, especially quantum computing and distributed computing.",
+    "keywords": [
+      "Coding Theory",
+      "Error Correcting Codes",
+      "Constrained Codes",
+      "DNA Data Storage & Privacy",
+      "Quantum Computing",
+      "Distributed Computing",
+      "Combinatorics & Algorithms"
+    ]
+  },
+
+  "research_experience": {
+    "title": "Research Experience",
+    "sections": [
+      {
+        "subtitle": "Coding for Data Storage Systems",
+        "topics": [
+          {
+            "topic_name": "Flash Memories",
+            "year": "2012 - 2020",
+            "bullet_points": [
+              {
+                "description": "Coding scheme to mitigate inter-cell interference and charge leakage concurrently in MLC flash memories.",
+                "selected_paper": "Y. M. Chee, C. Johan, H. M. Kiah, S. Ling, T. T. Nguyen, V. K. Vu, 'Capacity-Achieving Constant-Composition Codes that Mitigates Intercell Interference in Flash Memories', Singapore provisional patent application, Ref No: TD/002/16."
+              },
+              {
+                "description": "Correcting errors in rank modulated flash memories.",
+                "selected_paper": "Y. M. Chee, S. Ling, T. T. Nguyen, V. K. Vu, X. Zhang and H. Wei, 'Burst-Deletion-Correcting Codes for Permutations and Multipermutations', IEEE Trans. Inform. Theory, vol. 66, no. 2, pp. 957–969, 2020."
+              }
+            ]
+          },
+          {
+            "topic_name": "Resistive Memories",
+            "year": "2017 - 2022",
+            "bullet_points": [
+              {
+                "description": "Coding scheme to expand the life-time of ReRAM.",
+                "selected_paper": "Y. M. Chee, M. Horovitz, A. Vardy, V. K. Vu, E. Yaakobi, 'Endurance-Limited Memories: Capacity and Codes', IEEE Trans. Inform. Theory, vol. 68, no. 3, pp. 1599–1613, 2022."
+              },
+              {
+                "description": "Two-dimensional codes for reducing parasitic currents in the crossbar resistive memories.",
+                "selected_paper": "D. C. Nguyen, V. K. Vu, and K. Cai, 'Two-dimensional weight-constrained codes for crossbar resistive memory arrays', IEEE Communications Letter, vol. 25, no. 5, pp. 1435–1438, 2021."
+              }
+            ]
+          },
+          {
+            "topic_name": "Racetrack Memories",
+            "year": "2017 - Present",
+            "bullet_points": [
+              {
+                "description": "Novel coding scheme for racetrack memories.",
+                "selected_paper": "Y. M. Chee, H. M. Kiah, A. Vardy, V. K. Vu, and E. Yaakobi, 'Coding for Racetrack Memories', IEEE Trans. Inform. Theory, vol. 64, no. 11, pp. 7094–7112, 2018."
+              },
+              {
+                "description": "Correct shift-errors in racetrack memories with multiple heads.",
+                "selected_paper": "Y. M. Chee, T. Etzion, H. M. Kiah, S. Marcovich, A. Vardy, V. K. Vu, E. Yaakobi, 'Locally-Constrained de Bruijn Codes: Properties, Enumeration, Code Constructions, and Applications', IEEE Trans. Inform. Theory, vol. 67, no. 12, pp. 7857–7875, 2021."
+              },
+              {
+                "description": "Novel constrained codes for transverse-read technology in racetrack memories.",
+                "selected_paper": "Y. M. Chee, A. Vardy, V. K. Vu, and E. Yaakobi, 'Transverse-Read-Codes for Domain Wall Memories', IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 784–793, 2023."
+              }
+            ]
+          },
+          {
+            "topic_name": "DNA-based Data Storage Systems",
+            "year": "2020 - Present",
+            "bullet_points": [
+              {
+                "description": "Correcting synchronization errors in DNA nanopore sequencing.",
+                "selected_paper": "Y. M. Chee, K. A. S. Immink, and V. K. Vu, 'Coding Scheme for Noisy Nanopore Sequencing with Backtracking and Skipping Errors', IEEE Int. Symp. Information Theory 2024."
+              },
+              {
+                "description": "Protect the privacy of data in DNA synthesis.",
+                "selected_paper": "S. Ling, K. H. Tang, V. K. Vu, H. Wang, and Y. Yan, 'Succinct Non-subsequence Arguments', presented in the International Conference on Security and Cryptography for Networks 2024."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Information and Communication Theory",
+        "topics": [
+          {
+            "topic_name": "Quantum Information Theory",
+            "year": "2022 - 2024",
+            "bullet_points": [
+              {
+                "description": "Compute quantum channel fidelity.",
+                "selected_paper": "Y. M. Chee, H. Ta, and V. K. Vu, 'An efficient parameterized algorithm for computing quantum channel fidelity via symmetries exploitation', accepted to IEEE Trans. Inform. Theory."
+              }
+            ]
+          },
+          {
+            "topic_name": "Quantum Communication Theory",
+            "year": "2021 - Present",
+            "bullet_points": [
+              {
+                "description": "Correct synchronization errors in quantum communication channel using constrained de Bruijn sequences.",
+                "selected_paper": "Y. M. Chee, D. T. Dao, T. L. Nguyen, D. H. Ta, and V. K. Vu, 'Run Length Limited de Bruijn Sequences for Quantum Communications', IEEE Int. Symp. Information Theory 2022."
+              }
+            ]
+          },
+          {
+            "topic_name": "Thermal-Aware Communication",
+            "year": "2022 - Present",
+            "bullet_points": [
+              {
+                "description": "Propose a coding scheme to control the temperature of devices.",
+                "selected_paper": "Y. M. Chee, T. Etzion, K. A. S. Immink, T. T. Nguyen, V. K. Vu, J. H. Weber, E. Yaakobi, 'Thermal-Aware Communications', accepted to IEEE Trans. Inform. Theory, 2025."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Coding Theory",
+        "topics": [
+          {
+            "topic_name": "Permutation Codes",
+            "year": "2012 - Present",
+            "bullet_points": [
+              {
+                "description": "Propose and study the first permutation codes in Generalized Kendall-tau and Cayley metrics.",
+                "selected_paper": "Y. M. Chee and V. K. Vu, 'Breakpoint Analysis and Permutation codes in Generalized Kendall tau and Cayley Metrics', in Proc. IEEE Int. Symp. Information Theory 2014, pp. 2959–2963."
+              },
+              {
+                "description": "Best known permutation codes in Ulam metric.",
+                "selected_paper": "S. Wang, V. T. Nguyen, Y. M. Chee, and V. K. Vu, 'Permutation and Multi-permutation Codes Correcting Multiple Deletions', accepted to IEEE Trans. Inform. Theory."
+              }
+            ]
+          },
+          {
+            "topic_name": "Codes Correcting Synchronization Errors",
+            "year": "2017 - Present",
+            "bullet_points": [
+              {
+                "description": "Propose to study the first codes correcting synchronization errors in symbol-pair read channels.",
+                "selected_paper": "Y. M. Chee and V. K. Vu, 'Codes Correcting Synchronization Errors for Symbol-Pair Read Channels', presented in the IEEE Int. Symp. Information Theory 2020."
+              },
+              {
+                "description": "Best known two-dimensional codes correcting criss-cross errors.",
+                "selected_paper": "Y. M. Chee, M. Hagiwara, and V. K. Vu, 'Two Dimensional Deletion Correcting Codes and their Applications', presented in IEEE Int. Symp. Information Theory 2021."
+              },
+              {
+                "description": "Best known permutation codes and multi-permutation codes correcting deletions.",
+                "selected_paper": "S. Wang, V. T. Nguyen, Y. M. Chee, and V. K. Vu, 'Permutation and Multi-permutation Codes Correcting Multiple Deletions', submitted to IEEE Trans. Inform. Theory."
+              },
+              {
+                "description": "Best known codes correcting a combination of adjacent transpositions and deletions.",
+                "selected_paper": "S. Wang, V. K. Vu, and V. Y. F. Tan, 'Binary Codes for Correcting Asymmetric Adjacent Transpositions and Deletions', IEEE Transaction on Communications."
+              },
+              {
+                "description": "The first non-binary deletion-correcting codes that achieve the Singleton bound with small alphabet size.",
+                "selected_paper": "M. Schaller, B. Toesca, and V. K. Vu, 'A New Construction of Non-Binary Deletion Correcting Codes and their Decoding', submitted to ISIT 2025."
+              }
+            ]
+          },
+          {
+            "topic_name": "Constrained Codes",
+            "year": "2016 - Present",
+            "bullet_points": [
+              {
+                "description": "ICI-free codes.",
+                "selected_paper": "Y. M. Chee, C. Johan, H. M. Kiah, S. Ling, T. T. Nguyen, and V. K. Vu, 'Capacity-Achieving Codes that Mitigate Intercell Interference and Charge Leakage in Flash Memories', IEEE Trans. Inform. Theory, vol. 65, no. 6, pp. 3702–3712, 2019."
+              },
+              {
+                "description": "Locally constrained de Bruijn codes.",
+                "selected_paper": "Y. M. Chee, T. Etzion, H. M. Kiah, S. Marcovich, A. Vardy, V. K. Vu, E. Yaakobi, 'Locally-Constrained de Bruijn Codes: Properties, Enumeration, Code Constructions, and Applications', IEEE Trans. Inform. Theory, vol. 67, no. 12, pp. 7857–7875, 2021."
+              }
+            ]
+          },
+          {
+            "topic_name": "Rewriting Codes",
+            "year": "2018 - 2022",
+            "bullet_points": [
+              {
+                "description": "Propose to study a new family of rewriting codes, called write ℓ-step-up memory codes.",
+                "selected_paper": "Y. M. Chee, H. M. Kiah, A. J. H. Vinck, V. K. Vu, and E. Yaakobi, 'Coding for Write-ℓ-step-up Memories', presented in the IEEE Int. Symp. Information Theory 2019."
+              },
+              {
+                "description": "Propose to study a new family of rewriting codes, called Endurance Limited Memories codes.",
+                "selected_paper": "Y. M. Chee, M. Horovitz, A. Vardy, V. K. Vu, and E. Yaakobi, 'Codes for Endurance-Limited Memories', in Proceedings of the Int. Symp. Information Theory and Its Application 2018."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Combinatorics",
+        "topics": [
+          {
+            "topic_name": "Combinatorial Group Testing",
+            "year": "2020 - Present",
+            "bullet_points": [
+              {
+                "description": "Study the model with blocks of defected items.",
+                "selected_paper": "V. T. Bui, Y. M. Chee, J. Scarlet, and V. K. Vu, 'Group Testing With Blocks of Positives', in Proceedings of the IEEE Int. Symp. Information Theory 2022."
+              }
+            ]
+          },
+          {
+            "topic_name": "de Bruijn Sequences and Graph",
+            "year": "2020 - Present",
+            "bullet_points": [
+              {
+                "description": "Best known results on de Bruijn covering sequences.",
+                "selected_paper": "Y. M. Chee, T. Etzion, H. Ta, and V. K. Vu, 'On de Bruijn Covering Sequences and Arrays', in Proceedings of the IEEE Int. Symp. Information Theory 2024."
+              },
+              {
+                "description": "Design the optimal constrained de Bruijn sequences.",
+                "selected_paper": "Y. M. Chee, T. L. Nguyen, V. D. Tran, V. K. Vu, 'Maximal Length Constrained de Bruijn Sequences', in Proceedings of the IEEE Int. Symp. Information Theory 2023."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Combinatorial Optimization",
+        "topics": [
+          {
+            "topic_name": "AI/ML for CO",
+            "year": "2025 - Present",
+            "bullet_points": [
+              {
+                "description": "Dynamic Neural-guided Ant Colony Optimization",
+                "selected_paper": "T. T. Dat, V. V. Khu, and Y. Ma, 'Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization'"
+              }
+            ]
+          },
+          {
+            "topic_name": "Operational Research for Coding Theory",
+            "year": "2025 - Present",
+            "bullet_points": [
+              {
+                "description": "2D Shortest Superstring Problem"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "academic_activities": {
+    "title": "Academic Activities",
+    "selected_presentations": {
+      "subtitle": "Selected Presentations (Invitation Only)",
+      "items": [
+        {
+          "year": "2025",
+          "title": "Permutation Codes in Levenshtein, Ulam, and generalised Kendall tau distance",
+          "event": "the 6th International Coding Theory Seminar, Nanyang Technological University, Singapore"
+        },
+        {
+          "year": "2024",
+          "title": "Coding Scheme for Noisy DNA Nanopore Sequencing",
+          "event": "The Dagstuhl Seminar, Germany"
+        },
+        {
+          "year": "2024",
+          "title": "Synchronization-Error-Correcting Codes for Data Storage Systems",
+          "event": "Singapore University of Technology and Design, Singapore"
+        },
+        {
+          "year": "2024",
+          "title": "Coding for DNA-Based Storage Systems",
+          "event": "University of Zurich, Switzerland"
+        },
+        {
+          "year": "2023",
+          "title": "Coding for Data-Storage Systems",
+          "event": "The 10th Vietnam Mathematical Congress, Da Nang, Vietnam"
+        },
+        {
+          "year": "2019",
+          "title": "Non-Binary Codes Correcting Multiple Bursts of Deletions and Their Applications in Racetrack Memories",
+          "event": "IEEE African Winter School on Information Theory and Communication, Johannesburg, South Africa"
+        },
+        {
+          "year": "2019",
+          "title": "Weakly Constrained Codes and their Applications in Data Storage Systems",
+          "event": "Asian-Europe Workshop on Concepts in Information Theory, Rotterdam, the Netherlands"
+        },
+        {
+          "year": "2019",
+          "title": "Constrained Codes and Their Applications for Data Storage Systems",
+          "event": "Chiba University, Japan"
+        },
+        {
+          "year": "2018",
+          "title": "Maximal Cardinality of Constrained Codes",
+          "event": "The 9th Vietnam Mathematical Congress in Nha Trang"
+        },
+        {
+          "year": "2018",
+          "title": "Constrained Codes and Their Applications",
+          "event": "Technion, Israel"
+        },
+        {
+          "year": "2017",
+          "title": "Data Storage: Past-Present-Future",
+          "event": "The first Vietnamese Mathematical Meeting in Singapore"
+        },
+        {
+          "year": "2017",
+          "title": "Racetrack Memories",
+          "event": "The 7th Annual Henry Taub TCE Conference, Technion, Haifa, Israel"
+        },
+        {
+          "year": "2014",
+          "title": "Permutation Codes and Its Applications in Flash Memories",
+          "event": "Forum Math-for-Industry, Kyushu University, Fukuoka, Japan"
+        },
+        {
+          "year": "2014",
+          "title": "Permutation Codes and Its Application in Flash Memories",
+          "event": "The first NTU-VIASM workshop on Discrete Mathematics in Hanoi"
+        }
+      ]
+    },
+    "conference_presentations": {
+      "subtitle": "Conference Presentations",
+      "items": [
+        {
+          "year": "2025",
+          "title": "Weight Constrained Run-length Limited Gray Codes",
+          "conference": "IEEE ISIT 2025"
+        },
+        {
+          "year": "2024",
+          "title": "Coding Scheme for Noisy Nanopore Sequencing with Backtracking and Skipping Errors",
+          "conference": "IEEE Int. Symp. Information Theory 2024"
+        },
+        {
+          "year": "2024",
+          "title": "Thermal-Aware Channel with Multiple Wires",
+          "conference": "IEEE Int. Symp. Information Theory 2024"
+        },
+        {
+          "year": "2024",
+          "title": "Window Weight Limited Gray Codes And Robust Positioning Sequences",
+          "conference": "IEEE Int. Symp. Information Theory 2024"
+        },
+        {
+          "year": "2023",
+          "title": "Thermal-Aware Channel Capacity",
+          "conference": "IEEE Int. Symp. Information Theory 2023"
+        },
+        {
+          "year": "2022",
+          "title": "Robust Locally Positioning Sequences and Codes: Capacity, Constructions and Applications",
+          "conference": "IEEE Int. Symp. Information Theory 2022"
+        },
+        {
+          "year": "2021",
+          "title": "Coding for Transverse-Reads in Domain Wall Memories",
+          "conference": "IEEE Int. Symp. Information Theory 2021"
+        },
+        {
+          "year": "2021",
+          "title": "Two Dimensional Deletion Correcting Codes and their Applications",
+          "conference": "IEEE Int. Symp. Information Theory 2021"
+        },
+        {
+          "year": "2020",
+          "title": "Codes Correcting Synchronization Errors for Symbol-Pair Read Channels",
+          "conference": "IEEE Int. Symp. Information Theory 2020"
+        },
+        {
+          "year": "2019",
+          "title": "Coding for Write-ℓ-step-up Memories",
+          "conference": "IEEE Int. Symp. Information Theory 2019, Paris, France"
+        },
+        {
+          "year": "2019",
+          "title": "Constrained de Bruijn Codes and Their Application",
+          "conference": "IEEE Int. Symp. Information Theory 2019, Paris, France"
+        },
+        {
+          "year": "2019",
+          "title": "Weakly Constrained Codes and their Applications in Data Storage Systems",
+          "conference": "Asia-Europe Workshop on Concepts in Information Theory 2019, Rotterdam, the Netherlands"
+        },
+        {
+          "year": "2019",
+          "title": "Codes Correcting Under- and Over-Shift Errors in Racetrack Memories",
+          "conference": "The 10th Non-Volatile Memories Workshop 2019, San Diego, USA"
+        },
+        {
+          "year": "2018",
+          "title": "Reconstruction from Deletions in Racetrack Memories",
+          "conference": "IEEE Information Theory Workshop 2018, Guangzhou, China"
+        },
+        {
+          "year": "2018",
+          "title": "Codes for Endurance-Limited Memories",
+          "conference": "The International Symposium on Information Theory and Its Applications 2018, Singapore"
+        },
+        {
+          "year": "2018",
+          "title": "Codes Correcting Limited Shift-Errors in Racetrack Memories",
+          "conference": "IEEE International Symposium on Information Theory 2018, Colorado, USA"
+        },
+        {
+          "year": "2017",
+          "title": "Coding for Racetrack Memories",
+          "conference": "IEEE ISIT 2017, Aachen, Germany"
+        },
+        {
+          "year": "2016",
+          "title": "Rates of Constant-Composition Codes that Mitigate Intercell Interference",
+          "conference": "IEEE International Symposium on Information Theory 2016, Barcelona, Spain"
+        },
+        {
+          "year": "2016",
+          "title": "String Concatenation Construction for Chebyshev Permutation Channel Codes",
+          "conference": "IEEE International Symposium on Information Theory 2016, Barcelona, Spain"
+        },
+        {
+          "year": "2015",
+          "title": "Permutation Codes Correcting a Single Burst Deletion I: Unstable Deletions",
+          "conference": "IEEE International Symposium on Information Theory 2015, Hong Kong"
+        },
+        {
+          "year": "2014",
+          "title": "Breakpoint Analysis and Permutation Codes in Generalized Kendall tau and Cayley Metrics",
+          "conference": "IEEE International Symposium on Information Theory 2014, Honolulu, Hawaii, USA"
+        },
+        {
+          "year": "2010",
+          "title": "Dynamics of a Stochastic Predator-Prey Model with Beddington - Deangelis Functional Response",
+          "conference": "Student Research Conference, VNU Hanoi University of Sciences",
+          "honors": "Best Presentation Award"
+        }
+      ]
+    },
+    "reviewer": {
+      "subtitle": "Reviewer Services",
+      "items": [
+        { "year": "2014 - Present", "venue": "IEEE International Symposium on Information Theory" },
+        { "year": "2017 - Present", "venue": "IEEE Communications Letters" },
+        { "year": "2019 - Present", "venue": "IEEE Information Theory Workshop" },
+        { "year": "2019 - Present", "venue": "IEEE Magnetics Letters" },
+        { "year": "2018 - Present", "venue": "IEEE Transaction on Communications" },
+        { "year": "2019 - Present", "venue": "IEEE Transaction on Information Theory" },
+        { "year": "2020", "venue": "IEEE International Symposium on Information Theory and Applications", "role": "TPC Member" },
+        { "year": "2024 - Present", "venue": "Design, Codes, and Cryptography" }
+      ]
+    },
+    "organizing_committee": {
+      "subtitle": "Organizing Committee",
+      "items": [
+        { "year": "2024", "event": "Japan-Singapore Informatics Exchange Workshop" },
+        { "year": "2024", "event": "The first workshop on Combinatorics and Coding Theory, Yersin, Dalat" },
+        { "year": "2018 - 2024", "event": "The annual Mathematics Symposium in Singapore (seven consecutive years)" },
+        { "year": "2021", "event": "The first VIASM Meeting on Mathematical Aspects of Computer Sciences (online)" },
+        { "year": "2019", "event": "The Mini-Course on Coding Theory and Its Applications, VIASM, Hanoi, Vietnam" },
+        { "year": "2012", "event": "The 20th National Mathematical Olympiad for Students, Tuy Hoa, Phu Yen, Vietnam" },
+        { "year": "2011", "event": "The 19th National Mathematical Olympiad for Students, Quy Nhon, Binh Dinh, Vietnam" }
+      ]
+    }
+  },
+
+  "teaching_experience": {
+    "title": "Teaching Experience",
+    "institutions": [
+      {
+        "subtitle": "Nanyang Technological University, Singapore",
+        "courses": [
+          {
+            "year": "2014",
+            "course": "Calculus for the Sciences II",
+            "role": "Teaching Assistant",
+            "semester": "Semester 2, Academic Year 2013-2014",
+            "students": "approx. 50 Students majored in Physics and Chemistry"
+          },
+          {
+            "year": "2014",
+            "course": "Mathematics I",
+            "role": "Teaching Assistant",
+            "semester": "Semester 1, Academic Year 2014-2015",
+            "students": "approx. 50 Students majored in Engineering"
+          },
+          {
+            "year": "2015",
+            "course": "Mathematics II",
+            "role": "Teaching Assistant",
+            "semester": "Semester 2, Academic Year 2014-2015",
+            "students": "approx. 50 Students majored in Engineering"
+          },
+          {
+            "year": "2015",
+            "course": "Mathematics I",
+            "role": "Teaching Assistant",
+            "semester": "Semester 1, Academic Year 2015-2016",
+            "students": "approx. 50 Students majored in Engineering"
+          },
+          {
+            "year": "2019",
+            "course": "Groups and Symmetries",
+            "role": "Teaching Assistant",
+            "semester": "Semester 1, Academic Year 2019-2020",
+            "students": "approx. 25 Students majored in Mathematics"
+          },
+          {
+            "year": "2019",
+            "course": "Introduction to Probability and Statistic",
+            "role": "Teaching Assistant",
+            "semester": "Semester 1, Academic Year 2019-2020",
+            "students": "approx. 50 Students majored in Mathematics"
+          }
+        ]
+      },
+      {
+        "subtitle": "Vietnam National University, Hanoi",
+        "courses": [
+          {
+            "year": "2012",
+            "course": "Statistic for Social Sciences",
+            "role": "Lecturer",
+            "semester": "Semester 2, Academic Year 2011-2012",
+            "students": "approx. 250 Students majored in Social Sciences and Humanities"
+          },
+          {
+            "year": "2012",
+            "course": "Probability and Statistic",
+            "role": "Lecturer",
+            "semester": "Semester 2, Academic Year 2011-2012",
+            "students": "approx. 60 Students majored in Biology"
+          },
+          {
+            "year": "2011",
+            "course": "Calculus V",
+            "role": "Teaching Assistant",
+            "semester": "Semester 1, Academic Year 2011-2012",
+            "students": "approx. 30 Students majored in Computer Sciences"
+          },
+          {
+            "year": "2011",
+            "course": "Probability and Statistic",
+            "role": "Lecturer",
+            "semester": "Semester 1, Academic Year 2011-2012",
+            "students": "approx. 235 Students majored in Economics and Business"
+          },
+          {
+            "year": "2011",
+            "course": "Calculus II",
+            "role": "Teaching Assistant",
+            "semester": "Semester 1, Academic Year 2011-2012",
+            "students": "10 Students in Talented and Advanced Program in Mathematics"
+          },
+          {
+            "year": "2011",
+            "course": "Calculus I",
+            "role": "Teaching Assistant",
+            "semester": "Semester 2, Academic Year 2010-2011",
+            "students": "10 Students in Talented and Advanced Program in Mathematics"
+          },
+          {
+            "year": "2011",
+            "course": "Undergraduate Seminar II (Mathematical Model in Biology)",
+            "role": "Instructor",
+            "semester": "Semester 2, Academic Year 2010-2011",
+            "students": "approx. 40 students majored in Mathematics"
+          },
+          {
+            "year": "2010",
+            "course": "Statistic for Social Sciences",
+            "role": "Lecturer",
+            "semester": "Semester 1, Academic Year 2010-2011",
+            "students": "approx. 250 students majored in Social Sciences and Humanities"
+          }
+        ]
+      }
+    ]
+  },
+
+  "publications": {
+    "title": "Publications",
+    "total_count": 57,
+    "items": [
+      {
+        "id": 1,
+        "year": "2026",
+        "authors": ["Binh Vu", "S. Wang", "V. K. Vu"],
+        "title": "Reconstruction Problem with List Size Two",
+        "venue": "ISITA 2026, Japan",
+        "status": "accepted"
+      },
+      {
+        "id": 2,
+        "year": "2026",
+        "authors": ["H. Ta", "V. K. Vu"],
+        "title": "Near-Optimal Covering Sequences",
+        "venue": "Designs, Codes, and Cryptography",
+        "status": "accepted"
+      },
+      {
+        "id": 3,
+        "year": "2026",
+        "authors": ["T. T. Dat", "V. K. Vu", "Y. Ma"],
+        "title": "Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization",
+        "venue": "SIGKDD 2026",
+        "status": "accepted"
+      },
+      {
+        "id": 4,
+        "year": "2026",
+        "authors": ["N. T. Tran", "V. K. Vu"],
+        "title": "Low-Weight Gray Codes for Limited Resources Group Testing of Consecutive Positives",
+        "venue": "IEEE ISIT 2026",
+        "status": "accepted"
+      },
+      {
+        "id": 5,
+        "year": "2026",
+        "authors": ["H. V. Nguyen", "M. H. Nguyen", "D. H. Ta", "V. K. Vu", "Y. M. Chee"],
+        "title": "A Mixture of Experts Vision Transformer for High Fidelity Surface Code Decoding",
+        "venue": "IEEE ISIT 2026",
+        "status": "accepted"
+      },
+      {
+        "id": 6,
+        "year": "2026",
+        "authors": ["V. L. P. Pham", "V. K. Vu", "K. Cai", "Y. M. Chee"],
+        "title": "Sequence Reconstruction for Sticky Insertion/Deletion Channels",
+        "venue": "IEEE ISIT 2026",
+        "status": "accepted"
+      },
+      {
+        "id": 7,
+        "year": "2025",
+        "authors": ["T. T. Dat", "P. A. Khoi", "T. Q. Khai", "D. D. Dong", "V. K. Vu"],
+        "title": "NeuFACO: Neural Focused Ant Colony Optimization for Traveling Salesman Problem",
+        "venue": "2025 RIVF",
+        "status": "published"
+      },
+      {
+        "id": 8,
+        "year": "2025",
+        "authors": ["Y. M. Chee", "T. Etzion", "H. Ta", "V. K. Vu"],
+        "title": "Constructions of Covering Sequences and Arrays",
+        "venue": "Designs, Codes and Cryptography",
+        "status": "accepted"
+      },
+      {
+        "id": 9,
+        "year": "2025",
+        "authors": ["Y. M. Chee", "H. Ta", "V. K. Vu"],
+        "title": "An efficient parameterized algorithm for computing quantum channel fidelity via symmetries exploitation",
+        "venue": "IEEE Trans. Inform. Theory",
+        "status": "accepted"
+      },
+      {
+        "id": 10,
+        "year": "2025",
+        "authors": ["S. Wang", "V. T. Nguyen", "Y. M. Chee", "V. K. Vu"],
+        "title": "Permutation and Multi-permutation Codes Correcting Multiple Deletions",
+        "venue": "IEEE Trans. Inform. Theory",
+        "status": "accepted"
+      },
+      {
+        "id": 11,
+        "year": "2025",
+        "authors": ["S. Wang", "Y. M. Chee", "V. K. Vu"],
+        "title": "Permutation Reconstructions for Deletion Channels",
+        "venue": "IEEE Information Theory Workshop, Sydney 2025",
+        "status": "accepted"
+      },
+      {
+        "id": 12,
+        "year": "2025",
+        "authors": ["M. Schaller", "B. Toesca", "V. K. Vu"],
+        "title": "A New Construction of Non-Binary Deletion Correcting Codes and their Decoding",
+        "venue": "ISIT 2025",
+        "status": "accepted"
+      },
+      {
+        "id": 13,
+        "year": "2025",
+        "authors": ["Y. M. Chee", "T. L. Nguyen", "V. K. Vu"],
+        "title": "Weight Constrained Run-length Limited Gray Codes",
+        "venue": "ISIT 2025",
+        "status": "accepted"
+      },
+      {
+        "id": 14,
+        "year": "2025",
+        "authors": ["Y. M. Chee", "T. Etzion", "K. A. S. Immink", "T. T. Nguyen", "V. K. Vu", "J. H. Weber", "E. Yaakobi"],
+        "title": "Thermal-Aware Communications",
+        "venue": "IEEE Trans. Inform. Theory",
+        "status": "accepted"
+      },
+      {
+        "id": 15,
+        "year": "2024",
+        "authors": ["Y. M. Chee", "K. A. S. Immink", "V. K. Vu"],
+        "title": "Coding Scheme for Noisy Nanopore Sequencing with Backtracking and Skipping Errors",
+        "venue": "IEEE Int. Symp. Information Theory 2024",
+        "status": "published"
+      },
+      {
+        "id": 16,
+        "year": "2024",
+        "authors": ["Y. M. Chee", "H. Lao", "T. L. Nguyen", "V. K. Vu"],
+        "title": "Window Weight Limited Gray Codes And Robust Positioning Sequences",
+        "venue": "IEEE Int. Symp. Information Theory 2024",
+        "status": "published"
+      },
+      {
+        "id": 17,
+        "year": "2024",
+        "authors": ["S. Wang", "Y. M. Chee", "V. K. Vu"],
+        "title": "Permutation Codes in Levenshtein, Ulam and Generalized Kendall-tau Metrics",
+        "venue": "IEEE Int. Symp. Information Theory 2024",
+        "status": "published"
+      },
+      {
+        "id": 18,
+        "year": "2024",
+        "authors": ["H. Lao", "Y. M. Chee", "H. Chen", "V. K. Vu"],
+        "title": "New Constructions for Linear Maximum Sum-Rank Distance Codes",
+        "venue": "IEEE Int. Symp. Information Theory 2024",
+        "status": "published"
+      },
+      {
+        "id": 19,
+        "year": "2024",
+        "authors": ["Y. M. Chee", "T. Etzion", "K. A. S. Immink", "T. T. Nguyen", "V. K. Vu", "J. H. Weber", "E. Yaakobi"],
+        "title": "Thermal-Aware Channel with Multiple Wires",
+        "venue": "IEEE Int. Symp. Information Theory 2024",
+        "status": "published"
+      },
+      {
+        "id": 20,
+        "year": "2024",
+        "authors": ["Y. M. Chee", "T. Etzion", "H. Ta", "V. K. Vu"],
+        "title": "On de Bruijn Covering Sequences and Arrays",
+        "venue": "IEEE Int. Symp. Information Theory 2024",
+        "status": "published"
+      },
+      {
+        "id": 21,
+        "year": "2024",
+        "authors": ["T. V. Bui", "Y. M. Chee", "V. K. Vu"],
+        "title": "Efficient designs for threshold group testing without gap",
+        "venue": "IEEE Int. Symp. Information Theory 2024",
+        "status": "published"
+      },
+      {
+        "id": 22,
+        "year": "2024",
+        "authors": ["S. Wang", "V. K. Vu", "V. Y. F. Tan"],
+        "title": "Binary Codes for Correcting Asymmetric Adjacent Transpositions and Deletions",
+        "venue": "IEEE Transaction on Communications",
+        "status": "published"
+      },
+      {
+        "id": 23,
+        "year": "2024",
+        "authors": ["N. T. Tran", "T. T. H. Tran", "V. K. Vu"],
+        "title": "Ranking and Un-ranking Calculations for Constant-Weight Gray code on Local Rank Modulation",
+        "venue": "18th International Conference on Advanced Computing and Analytics, 2024",
+        "status": "published"
+      },
+      {
+        "id": 24,
+        "year": "2024",
+        "authors": ["S. Ling", "K. H. Tang", "V. K. Vu", "H. Wang", "Y. Yan"],
+        "title": "Succinct Non-subsequence Arguments",
+        "venue": "International Conference on Security and Cryptography for Networks 2024",
+        "status": "published"
+      },
+      {
+        "id": 25,
+        "year": "2023",
+        "authors": ["S. Wang", "V. K. Vu", "V. Y. F. Tan"],
+        "title": "Codes for Correcting t Limited-Magnitude Sticky Deletions",
+        "venue": "IEEE Int. Symp. Information Theory 2023",
+        "status": "published"
+      },
+      {
+        "id": 26,
+        "year": "2023",
+        "authors": ["Y. M. Chee", "T. L. Nguyen", "V. D. Tran", "V. K. Vu"],
+        "title": "Maximal Length Constrained de Bruijn Sequences",
+        "venue": "IEEE Int. Symp. Information Theory 2023",
+        "status": "published"
+      },
+      {
+        "id": 27,
+        "year": "2023",
+        "authors": ["Y. M. Chee", "T. Etzion", "K. A. S. Immink", "T. T. Nguyen", "V. K. Vu", "J. H. Weber", "E. Yaakobi"],
+        "title": "Thermal-Aware Channel Capacity",
+        "venue": "IEEE Int. Symp. Information Theory 2023",
+        "status": "published"
+      },
+      {
+        "id": 28,
+        "year": "2023",
+        "authors": ["Y. M. Chee", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Transverse-Read-Codes for Domain Wall Memories",
+        "venue": "IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 784–793",
+        "status": "published"
+      },
+      {
+        "id": 29,
+        "year": "2023",
+        "authors": ["Y. M. Chee", "A. C. H. Ling", "V. K. Vu", "H. Zhang"],
+        "title": "Scheduling to reduce close contacts: resolvable grid graph decomposition and packing",
+        "venue": "Designs, Codes and Cryptography, vol. 91, no. 12, pp. 4093–4106",
+        "status": "published"
+      },
+      {
+        "id": 30,
+        "year": "2022",
+        "authors": ["V. T. Bui", "Y. M. Chee", "J. Scarlet", "V. K. Vu"],
+        "title": "Group Testing With Blocks of Positives",
+        "venue": "IEEE Int. Symp. Information Theory 2022",
+        "status": "published"
+      },
+      {
+        "id": 31,
+        "year": "2022",
+        "authors": ["Y. M. Chee", "N. H. Le", "V. K. Vu"],
+        "title": "Robust Locally Positioning Sequences and Codes: Capacity, Constructions and Applications",
+        "venue": "IEEE Int. Symp. Information Theory 2022",
+        "status": "published"
+      },
+      {
+        "id": 32,
+        "year": "2022",
+        "authors": ["Y. M. Chee", "D. T. Dao", "T. L. Nguyen", "D. H. Ta", "V. K. Vu"],
+        "title": "Run Length Limited de Bruijn Sequences for Quantum Communications",
+        "venue": "IEEE Int. Symp. Information Theory 2022",
+        "status": "published"
+      },
+      {
+        "id": 33,
+        "year": "2022",
+        "authors": ["S. Wang", "V. K. Vu", "V. Y. F. Tan"],
+        "title": "Codes for the Asymmetric Damerau–Levenshtein Distance",
+        "venue": "IEEE Information Theory Workshop 2022",
+        "status": "published"
+      },
+      {
+        "id": 34,
+        "year": "2022",
+        "authors": ["Y. M. Chee", "M. Horovitz", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Endurance-Limited Memories: Capacity and Codes",
+        "venue": "IEEE Trans. Inform. Theory, vol. 68, no. 3, pp. 1599–1613",
+        "status": "published"
+      },
+      {
+        "id": 35,
+        "year": "2021",
+        "authors": ["Y. M. Chee", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Coding for Transverse-Reads in Domain Wall Memories",
+        "venue": "IEEE Int. Symp. Information Theory 2021",
+        "status": "published"
+      },
+      {
+        "id": 36,
+        "year": "2021",
+        "authors": ["Y. M. Chee", "M. Hagiwara", "V. K. Vu"],
+        "title": "Two Dimensional Deletion Correcting Codes and their Applications",
+        "venue": "IEEE Int. Symp. Information Theory 2021",
+        "status": "published"
+      },
+      {
+        "id": 37,
+        "year": "2021",
+        "authors": ["Y. M. Chee", "T. Etzion", "H. M. Kiah", "S. Marcovich", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Locally-Constrained de Bruijn Codes: Properties, Enumeration, Code Constructions, and Applications",
+        "venue": "IEEE Trans. Inform. Theory, vol. 67, no. 12, pp. 7857–7875",
+        "status": "published"
+      },
+      {
+        "id": 38,
+        "year": "2021",
+        "authors": ["D. C. Nguyen", "V. K. Vu", "K. Cai"],
+        "title": "Two-dimensional weight-constrained codes for crossbar resistive memory arrays",
+        "venue": "IEEE Communications Letter, vol. 25, no. 5, pp. 1435–1438",
+        "status": "published"
+      },
+      {
+        "id": 39,
+        "year": "2020",
+        "authors": ["Y. M. Chee", "V. K. Vu"],
+        "title": "Codes Correcting Synchronization Errors for Symbol-Pair Read Channels",
+        "venue": "IEEE Int. Symp. Information Theory 2020",
+        "status": "published"
+      },
+      {
+        "id": 40,
+        "year": "2020",
+        "authors": ["Y. M. Chee", "S. Ling", "T. T. Nguyen", "V. K. Vu", "X. Zhang", "H. Wei"],
+        "title": "Burst-Deletion-Correcting Codes for Permutations and Multipermutations",
+        "venue": "IEEE Trans. Inform. Theory, vol. 66, no. 2, pp. 957–969",
+        "status": "published"
+      },
+      {
+        "id": 41,
+        "year": "2019",
+        "authors": ["Y. M. Chee", "M. Horovitz", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Endurance-Limited Memories with Informed Decoder",
+        "venue": "IEEE Information Theory Workshop 2019",
+        "status": "published"
+      },
+      {
+        "id": 42,
+        "year": "2019",
+        "authors": ["Y. M. Chee", "H. M. Kiah", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Codes correcting under- and over-shift errors in racetrack memories",
+        "venue": "10th Annual Non-Volatile Memories Workshop 2019, San Diego, USA",
+        "status": "published"
+      },
+      {
+        "id": 43,
+        "year": "2019",
+        "authors": ["Y. M. Chee", "H. M. Kiah", "A. J. H. Vinck", "V. K. Vu", "E. Yaakobi"],
+        "title": "Coding for Write-ℓ-step-up Memories",
+        "venue": "IEEE Int. Symp. Information Theory 2019",
+        "status": "published"
+      },
+      {
+        "id": 44,
+        "year": "2019",
+        "authors": ["Y. M. Chee", "T. Etzion", "H. M. Kiah", "V. K. Vu", "E. Yaakobi"],
+        "title": "Constrained de Bruijn Codes and Their Application",
+        "venue": "IEEE Int. Symp. Information Theory 2019",
+        "status": "published"
+      },
+      {
+        "id": 45,
+        "year": "2019",
+        "authors": ["Y. M. Chee", "C. Johan", "H. M. Kiah", "S. Ling", "T. T. Nguyen", "V. K. Vu"],
+        "title": "Capacity-Achieving Codes that Mitigate Intercell Interference and Charge Leakage in Flash Memories",
+        "venue": "IEEE Trans. Inform. Theory, vol. 65, no. 6, pp. 3702–3712",
+        "status": "published"
+      },
+      {
+        "id": 46,
+        "year": "2018",
+        "authors": ["Y. M. Chee", "R. Gabrys", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Exact Reconstruction from Deletions in Racetrack Memories",
+        "venue": "IEEE Information Theory Workshop 2018",
+        "status": "published"
+      },
+      {
+        "id": 47,
+        "year": "2018",
+        "authors": ["Y. M. Chee", "M. Horovitz", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Codes for Endurance-Limited Memories",
+        "venue": "Int. Symp. Information Theory and Its Application 2018",
+        "status": "published"
+      },
+      {
+        "id": 48,
+        "year": "2018",
+        "authors": ["Y. M. Chee", "H. M. Kiah", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Codes Correcting Limited Shift-Errors in Racetrack Memories",
+        "venue": "IEEE Int. Symp. Information Theory 2018",
+        "status": "published"
+      },
+      {
+        "id": 49,
+        "year": "2018",
+        "authors": ["Y. M. Chee", "H. M. Kiah", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Coding for Racetrack Memories",
+        "venue": "IEEE Trans. Inform. Theory, vol. 64, no. 11, pp. 7094–7112",
+        "status": "published"
+      },
+      {
+        "id": 50,
+        "year": "2017",
+        "authors": ["Y. M. Chee", "H. M. Kiah", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Codes Correcting Position Errors in Racetrack Memories",
+        "venue": "IEEE Information Theory Workshop 2017, pp. 161–165",
+        "status": "published"
+      },
+      {
+        "id": 51,
+        "year": "2017",
+        "authors": ["Y. M. Chee", "H. M. Kiah", "A. Vardy", "V. K. Vu", "E. Yaakobi"],
+        "title": "Coding for Racetrack Memories",
+        "venue": "IEEE Int. Symp. Information Theory 2017, pp. 619–623",
+        "status": "published"
+      },
+      {
+        "id": 52,
+        "year": "2017",
+        "authors": ["Y. M. Chee", "S. Ling", "T. T. Nguyen", "V. K. Vu", "H. Wei"],
+        "title": "Permutation Codes Correcting a Single Burst Deletion II: Stable Deletions",
+        "venue": "IEEE Int. Symp. Information Theory 2017, pp. 2688–2692",
+        "status": "published"
+      },
+      {
+        "id": 53,
+        "year": "2016",
+        "authors": ["Y. M. Chee", "C. Johan", "H. M. Kiah", "S. Ling", "T. T. Nguyen", "V. K. Vu"],
+        "title": "Rates of Constant-Composition Codes that Mitigate Intercell Interference",
+        "venue": "IEEE Int. Symp. Information Theory 2016, pp. 200–204",
+        "status": "published"
+      },
+      {
+        "id": 54,
+        "year": "2016",
+        "authors": ["Y. M. Chee", "C. Johan", "H. M. Kiah", "S. Ling", "T. T. Nguyen", "V. K. Vu"],
+        "title": "Efficient Encoding/Decoding of Capacity-Achieving Constant-Composition ICI-Free Codes",
+        "venue": "IEEE Int. Symp. Information Theory 2016, pp. 205–209",
+        "status": "published"
+      },
+      {
+        "id": 55,
+        "year": "2016",
+        "authors": ["Y. M. Chee", "H. M. Kiah", "S. Ling", "T. T. Nguyen", "V. K. Vu", "X. Zhang"],
+        "title": "String Concatenation Construction for Chebyshev Permutation Channel Codes",
+        "venue": "IEEE Int. Symp. Information Theory 2016, pp. 2824–2828",
+        "status": "published"
+      },
+      {
+        "id": 56,
+        "year": "2015",
+        "authors": ["Y. M. Chee", "V. K. Vu", "X. Zhang"],
+        "title": "Permutation Codes Correcting a Single Burst Deletion I: Unstable Deletions",
+        "venue": "IEEE Int. Symp. Information Theory 2015, pp. 1741–1745",
+        "status": "published"
+      },
+      {
+        "id": 57,
+        "year": "2014",
+        "authors": ["Y. M. Chee", "V. K. Vu"],
+        "title": "Breakpoint Analysis and Permutation codes in Generalized Kendall tau and Cayley Metrics",
+        "venue": "IEEE Int. Symp. Information Theory 2014, pp. 2959–2963",
+        "status": "published"
+      }
+    ]
+  }
+}

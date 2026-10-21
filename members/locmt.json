@@ -1,0 +1,191 @@
+{
+  "personal_info": {
+    "name": "Mai Thanh Loc",
+    "title": "Research Assistant",
+    "affiliation": "SLSCM Lab, National Economics University, Hanoi, Vietnam",
+    "phone": "+84 981 605 568",
+    "email": "mailoc121517@gmail.com",
+    "avatar_url": ""
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "year": "Aug 2022 - Jun 2026",
+        "degree": "Bachelor of Data Science in Economics and Business",
+        "institution": "National Economics University (NEU), Hanoi, Vietnam",
+        "honors": "GPA: 3.93/4.00 (9.34/10.00), ranked 1st in cohort. IELTS Academic: 7.0. Full-ride scholarship for the Master of Science in Computer Science at VinUniversity."
+      }
+    ]
+  },
+  "employment": {
+    "title": "Employment",
+    "items": [
+      {
+        "year": "Feb 2026 - Present",
+        "position": "Management Associate - Data Stream (AI Foundation Team)",
+        "institution": "Techcombank, Hanoi, Vietnam"
+      },
+      {
+        "year": "Feb 2025 - Jan 2026",
+        "position": "AI Engineer",
+        "institution": "Techcombank, Hanoi, Vietnam"
+      },
+      {
+        "year": "Mar 2024 - Present",
+        "position": "Research Assistant",
+        "institution": "SLSCM Lab, National Economics University, Hanoi, Vietnam"
+      }
+    ]
+  },
+  "honors_awards_scholarships": {
+    "title": "Honors - Awards - Scholarships",
+    "items": [
+      {
+        "year": "2022 - 2026",
+        "award": "Merit-based scholarship for 7 consecutive semesters (7/7)",
+        "awarded_by": "National Economics University"
+      },
+      {
+        "year": "2022 - 2026",
+        "award": "PVED Scholarship"
+      },
+      {
+        "year": "2022 - 2026",
+        "award": "Second Prize, Scientific Research Competition",
+        "awarded_by": "National Economics University"
+      }
+    ]
+  },
+  "research_interests": {
+    "title": "Research Interests",
+    "description": "Seeking a research-oriented Master's degree as preparation for a future Ph.D. My interests lie at the intersection of Mathematical Optimization, Operations Research, Machine Learning, and Autonomous Systems, with the goal of developing intelligent agents capable of robust decision-making under uncertainty.",
+    "keywords": [
+      "Mathematical Optimization",
+      "Operations Research",
+      "Machine Learning",
+      "Autonomous Systems"
+    ]
+  },
+  "research_experience": {
+    "title": "Research and Project Experience",
+    "sections": [
+      {
+        "subtitle": "Research",
+        "topics": [
+          {
+            "topic_name": "Mathematical Optimization and Machine Learning",
+            "year": "Mar 2024 - Present",
+            "bullet_points": [
+              {
+                "description": "Research at the intersection of mathematical optimization and machine learning, at the SLSCM Lab, National Economics University."
+              },
+              {
+                "description": "Developed optimization-based learning models and formulated mathematical constraints using Gurobi, CPLEX, and DOcplex."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Industry Experience at Techcombank",
+        "topics": [
+          {
+            "topic_name": "Management Associate - AI Foundation Team",
+            "year": "Feb 2026 - Present",
+            "bullet_points": [
+              {
+                "description": "Selected for Techcombank's highly competitive Management Associate Program."
+              },
+              {
+                "description": "Contributed to enterprise AI infrastructure, including knowledge graphs, vector search systems, and semantic retrieval platforms."
+              },
+              {
+                "description": "Supported the development of AI foundation services for scalable internal intelligent applications."
+              }
+            ]
+          },
+          {
+            "topic_name": "AI Engineer",
+            "year": "Feb 2025 - Jan 2026",
+            "bullet_points": [
+              {
+                "description": "Designed and deployed enterprise AI applications based on LLMs, RAG systems, and MLOps workflows."
+              },
+              {
+                "description": "Developed intelligent assistants, automated document-understanding systems, and productivity tools for business use."
+              },
+              {
+                "description": "Worked across the full lifecycle from problem formulation to implementation and deployment."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Selected Industry Projects",
+        "topics": [
+          {
+            "topic_name": "Enterprise Knowledge Graph & Vector Search Platform",
+            "year": "",
+            "bullet_points": [
+              {
+                "description": "Designed enterprise knowledge graph structures for large-scale retrieval and reasoning systems."
+              },
+              {
+                "description": "Built automated ETL and vector indexing pipelines using Databricks and CI/CD workflows."
+              }
+            ]
+          },
+          {
+            "topic_name": "Credit Appraisal Agent",
+            "year": "",
+            "bullet_points": [
+              {
+                "description": "Developed an LLM-powered credit appraisal assistant to support analysts in evaluating customer profiles, financial documents, and credit-related information."
+              },
+              {
+                "description": "Integrated retrieval-augmented generation (RAG), vector search, and enterprise knowledge sources to automate information retrieval and accelerate credit assessment workflows."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Selected Coursework Projects",
+        "topics": [
+          {
+            "topic_name": "Video Copy Detection Framework",
+            "year": "",
+            "bullet_points": [
+              {
+                "description": "DSLab-NEU project."
+              },
+              {
+                "description": "Developed a two-stage video copy detection framework using CLIP, RoBERTa, SwinV2, and Vision Transformers."
+              },
+              {
+                "description": "Applied contrastive learning to identify copied content and localize copied video segments."
+              }
+            ]
+          },
+          {
+            "topic_name": "Robust Sentiment Analysis MLOps Pipeline",
+            "year": "",
+            "bullet_points": [
+              {
+                "description": "NEU course project."
+              },
+              {
+                "description": "Built an end-to-end MLOps pipeline for sentiment analysis of political social media data."
+              },
+              {
+                "description": "Integrated Apache Airflow, MLflow, PostgreSQL, Docker, and Grafana for orchestration and monitoring."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

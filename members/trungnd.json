@@ -1,0 +1,198 @@
+{
+  "personal_info": {
+    "name": "Nguyen Duc Trung",
+    "title": "Undergraduate Student",
+    "affiliation": "VinUniversity, Hanoi, Vietnam",
+    "phone": "+84 395776245",
+    "email": "22trung.nd@vinuni.edu.vn",
+    "avatar_url": ""
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "year": "2022 - Present",
+        "degree": "B.Sc. in Computer Science",
+        "institution": "VinUniversity, Hanoi",
+        "honors": "GPA: 3.79/4.0"
+      },
+      {
+        "year": "2020 - 2022",
+        "degree": "Mathematics Specialized Class",
+        "institution": "Phan Boi Chau High School for the Gifted",
+        "honors": "GPA: grade 10: 9.1/10, grade 11: 9.3/10, grade 12: 9.5/10"
+      }
+    ]
+  },
+  "employment": {
+    "title": "Employment",
+    "items": [
+      {
+        "year": "June 2025 - October 2025",
+        "position": "GPU Engineer Trainee",
+        "institution": "Moreh Vietnam"
+      },
+      {
+        "year": "October 2023 - June 2024",
+        "position": "Research Assistant",
+        "institution": "VinUni Undergraduate Research Open Program"
+      }
+    ]
+  },
+  "honors_awards_scholarships": {
+    "title": "Honors - Awards - Scholarships",
+    "items": [
+      {
+        "year": "2022 - Present",
+        "award": "Full Scholarship - 100% tuition coverage",
+        "awarded_by": "VinUniversity"
+      },
+      {
+        "year": "2025",
+        "award": "Gold Medal, Mathematical Olympiad for Undergraduate Students"
+      },
+      {
+        "year": "2024",
+        "award": "Silver Medal, Mathematical Olympiad for Undergraduate Students"
+      },
+      {
+        "year": "2024",
+        "award": "Third Prize, ICPC National"
+      },
+      {
+        "year": "2024",
+        "award": "Second Prize, ICPC Northern Region"
+      },
+      {
+        "year": "2024",
+        "award": "President's List Award",
+        "description": "Best academic performance of College",
+        "awarded_by": "VinUniversity"
+      },
+      {
+        "year": "2023",
+        "award": "President's List Award",
+        "description": "Best academic performance of College",
+        "awarded_by": "VinUniversity"
+      },
+      {
+        "year": "2022",
+        "award": "First Prize, Vietnam Mathematical Olympiad"
+      },
+      {
+        "year": "2022",
+        "award": "First Prize, Nghe An Provincial Math Contest"
+      },
+      {
+        "year": "2022",
+        "award": "Participant, Vietnam Team Selection Test for IMO"
+      },
+      {
+        "year": "2021",
+        "award": "Second Prize, Vietnam Mathematical Olympiad"
+      },
+      {
+        "year": "2021",
+        "award": "Participant, Vietnam Team Selection Test for IMO"
+      }
+    ]
+  },
+  "research_experience": {
+    "title": "Research and Project Experience",
+    "sections": [
+      {
+        "subtitle": "Research",
+        "topics": [
+          {
+            "topic_name": "On-device Federated Learning",
+            "year": "October 2023 - June 2024",
+            "bullet_points": [
+              {
+                "description": "Focused on the security aspects of Federated Learning systems."
+              },
+              {
+                "description": "Conducted a literature review of Federated Learning papers and gave bi-weekly presentations on them."
+              },
+              {
+                "description": "Presented the poster \"Exploring Secure Aggregation in On-device Federated Learning via Homomorphic Encryption\" on VinUni CECS Day 2024."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "GPU Engineering at Moreh Vietnam",
+        "topics": [
+          {
+            "topic_name": "GPU programming training",
+            "year": "June 2025 - October 2025",
+            "bullet_points": [
+              {
+                "description": "Completed intensive training in GPU programming, focusing on parallel computing, memory optimization, and performance tuning on GPUs."
+              }
+            ]
+          },
+          {
+            "topic_name": "StyleGAN2 inference optimization",
+            "year": "2025",
+            "bullet_points": [
+              {
+                "description": "Optimized CPU and GPU inference on a 4-node cluster, reaching 10 images/s on AMD EPYC 7452 and 560 images/s on NVIDIA A100."
+              },
+              {
+                "description": "Tech: PyTorch, C++, CUDA, OpenMP, MPI."
+              }
+            ]
+          },
+          {
+            "topic_name": "gpt-oss-amd",
+            "year": "2025",
+            "bullet_points": [
+              {
+                "description": "Built a pure C++ inference implementation of OpenAI GPT-OSS models targeting AMD GPUs without external dependencies."
+              },
+              {
+                "description": "Achieved 10,000 tok/s (20B) and 1,000 tok/s (120B) on a node with 8 x AMD MI250 GPUs."
+              },
+              {
+                "description": "Tech: PyTorch, C++, HIP, CUDA, MPI."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Software Projects",
+        "topics": [
+          {
+            "topic_name": "Startups Data Visualization",
+            "year": "October 2024 - December 2024",
+            "bullet_points": [
+              {
+                "description": "Developed a website to help the VinUniversity Entrepreneurship Lab (E-lab) manage startup information: add, delete and edit startups, and see an overview of all startups led by VinUniversity."
+              },
+              {
+                "description": "Position: Back-end developer."
+              },
+              {
+                "description": "Tech: Python, SQL, Django REST Framework."
+              }
+            ]
+          },
+          {
+            "topic_name": "OOP Term Project",
+            "year": "June 2023",
+            "bullet_points": [
+              {
+                "description": "Developed a chess game in Java, including classical mode and Fischer mode."
+              },
+              {
+                "description": "Tech: Java, Git."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

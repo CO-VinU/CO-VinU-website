@@ -1,0 +1,109 @@
+{
+  "personal_info": {
+    "name": "Lai Gia Khai",
+    "title": "High School Student",
+    "affiliation": "VinUniversity, Hanoi, Vietnam",
+    "phone": "082-259-8568",
+    "email": "laigiakhai@gmail.com",
+    "avatar_url": ""
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "year": "2023 - Present",
+        "degree": "High School, majoring in Mathematics",
+        "institution": "Hanoi, Vietnam",
+        "honors": "GPA: Grade 10: 9.56/10, Grade 11: 9.83/10, Grade 12: 9.88/10. IELTS: 7.5"
+      }
+    ]
+  },
+  "honors_awards_scholarships": {
+    "title": "Honors - Awards - Scholarships",
+    "items": [
+      {
+        "year": "2026",
+        "award": "HNUE Youth Innovation Award"
+      },
+      {
+        "year": "2025",
+        "award": "Second Prize, National Mathematics Olympiad (VMO 2025)"
+      },
+      {
+        "year": "2025",
+        "award": "Gold Medal, 2nd International Mathematics Competition for high school students",
+        "awarded_by": "Turkmenistan"
+      },
+      {
+        "year": "2025",
+        "award": "Second Prize, 3rd International Mathematics Summer Camp competition (IMSC 2025)"
+      },
+      {
+        "year": "2024",
+        "award": "First Prize, National Mathematics Olympiad (VMO 2024)"
+      },
+      {
+        "year": "2024",
+        "award": "First Prize, National Mathematical Olympiad for University Students and High School Students"
+      },
+      {
+        "year": "2024",
+        "award": "First Prize, 15th contest for gifted students of Major High Schools in the Northern Delta and Coastal area"
+      },
+      {
+        "year": "2024",
+        "award": "Odon Vallet Scholarship"
+      },
+      {
+        "year": "2023",
+        "award": "Gold Medal, HSGS Olympiad"
+      },
+      {
+        "year": "2023",
+        "award": "Gold Medal, Iranian Geometry Olympiad (IGO 2023)"
+      }
+    ]
+  },
+  "research_interests": {
+    "title": "Interests and Goals",
+    "description": "I am a high school student majoring in Mathematics, with strengths in self-directed learning and analytical problem-solving. Adapting to a competitive academic environment in Hanoi helped me develop discipline and independent learning, and led to my achievement as a national valedictorian in grade 11. I aim to build a strong foundation in Maths and AI. In the long term, I want to create efficient, practical solutions that improve decision-making and everyday life.",
+    "keywords": [
+      "Mathematics",
+      "Artificial Intelligence"
+    ]
+  },
+  "research_experience": {
+    "title": "Programs and Experience",
+    "sections": [
+      {
+        "subtitle": "Summer Camps and Training",
+        "topics": [
+          {
+            "topic_name": "International Mathematics Summer Camp (IMSC)",
+            "year": "2025",
+            "bullet_points": [
+              {
+                "description": "Took part in the selective IMSC in China and other mathematics summer programs in Vietnam and abroad."
+              },
+              {
+                "description": "Engaged with world-class professors and collaborated with top students from diverse backgrounds."
+              },
+              {
+                "description": "Broadened my perspective on problem-solving and strengthened communication and teamwork skills."
+              }
+            ]
+          },
+          {
+            "topic_name": "VIASM advanced training courses",
+            "year": "",
+            "bullet_points": [
+              {
+                "description": "Attended advanced training courses at VIASM."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

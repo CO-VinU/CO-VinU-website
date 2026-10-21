@@ -1,0 +1,133 @@
+{
+  "personal_info": {
+    "name": "Vu Pham Gia Khiem",
+    "title": "Computer Science Student",
+    "affiliation": "VinUniversity, Hanoi, Vietnam",
+    "phone": "0389939387",
+    "email": "vukhiem2204@gmail.com",
+    "avatar_url": ""
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "year": "2026 - Present",
+        "degree": "Computer Science Program",
+        "institution": "VinUniversity"
+      },
+      {
+        "year": "2026",
+        "degree": "Mathematics Major",
+        "institution": "Tran Phu Gifted High School",
+        "honors": "Graduated 2026"
+      }
+    ]
+  },
+  "honors_awards_scholarships": {
+    "title": "Honors - Awards - Scholarships",
+    "items": [
+      {
+        "year": "2026",
+        "award": "Provost's Merit Scholarship, Computer Science (100% tuition fee)",
+        "awarded_by": "VinUniversity"
+      },
+      {
+        "year": "2026",
+        "award": "Selected for the IMO National Team Selection Round",
+        "description": "Granted exemption from the Vietnamese High School Graduation Examination"
+      },
+      {
+        "year": "2026",
+        "award": "Second Prize, Vietnamese Mathematical Olympiad (VMO)",
+        "description": "Top 34 of 600+"
+      },
+      {
+        "year": "2025",
+        "award": "Third Place, Mathematics",
+        "awarded_by": "HSE International Olympiad"
+      },
+      {
+        "year": "2025",
+        "award": "The Hengso Scholarship Programme (USD 500)",
+        "description": "Awarded upon recommendation of the Hai Phong Department of Education and Training"
+      },
+      {
+        "year": "2024",
+        "award": "Bronze Medal, Vietnam Student Mathematical Olympiad"
+      },
+      {
+        "year": "2024",
+        "award": "Bronze Medal, Mathematics, Northern Delta-Coastal Gifted Schools Math Contest"
+      },
+      {
+        "year": "2024",
+        "award": "Third Prize, High School Mathematics Olympiad",
+        "awarded_by": "Vietnam National University, Hanoi"
+      },
+      {
+        "year": "2024",
+        "award": "Aluminium Compass Award, Advanced Division",
+        "description": "Top 2 of 200+",
+        "awarded_by": "Iranian Geometry Olympiad"
+      },
+      {
+        "year": "2023",
+        "award": "First Prize (Valedictorian), City-level Mathematics Excellent Student Competition"
+      }
+    ]
+  },
+  "research_interests": {
+    "title": "Interests and Goals",
+    "description": "First-year Computer Science student with a strong interest in technology, particularly programming, data, and Artificial Intelligence. Curious about how technology can be used to solve complex problems and eager to continuously explore new ideas and emerging technologies. A highly motivated and collaborative learner looking to grow through hands-on projects, meaningful discussions, and engagement with like-minded peers.",
+    "keywords": [
+      "Programming",
+      "Data",
+      "Artificial Intelligence"
+    ]
+  },
+  "academic_activities": {
+    "title": "Community and Leadership",
+    "organizing_committee": {
+      "subtitle": "Community Activities and Clubs",
+      "items": [
+        {
+          "year": "",
+          "event": "Charity Event of Vietnam Students Health Hub (Organizer/Co-Founder): managed a team of 40 people, responsible for the academic department; raised 15,000,000 VND to support the Hai Phong Center for Inclusive Education Development"
+        },
+        {
+          "year": "",
+          "event": "Mam Xanh Charity Project (Organizer/Co-Founder): managed a team of 10 people, responsible for the logistics and marketing department; raised 4,000,000 VND to support Hoa Phuong Social Work and Child Protection Center"
+        },
+        {
+          "year": "",
+          "event": "Vietnam Students Health Hub (Co-Founder/Head of Academic Division): researched 25 educational health posts, reaching over 360,000 views and 37,000 engagements"
+        },
+        {
+          "year": "",
+          "event": "CAN-Club For TPC Wannabes (Head of Academic Division): managed 10 people supporting Tran Phu Gifted High School candidates with content on academics and learning methods"
+        },
+        {
+          "year": "",
+          "event": "Seed2Success - Hai Phong Youth Economics and Entrepreneurship Club (Academic Member): conducted 10 research studies for educational posts; mentor at FutureTrepreneurs Business Bootcamp 2025: Ignition; MVP of the Academic Department"
+        }
+      ]
+    }
+  },
+  "teaching_experience": {
+    "title": "Teaching Experience",
+    "institutions": [
+      {
+        "subtitle": "Toan Thay Tung Club",
+        "courses": [
+          {
+            "year": "",
+            "course": "Secondary Mathematics",
+            "role": "Math Teacher",
+            "semester": "",
+            "students": "Over 100 students; 90% of students achieved the target scores in the High School Entrance Exam"
+          }
+        ]
+      }
+    ]
+  }
+}

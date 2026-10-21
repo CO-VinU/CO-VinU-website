@@ -1,0 +1,132 @@
+{
+  "personal_info": {
+    "name": "Vu Ngoc Binh",
+    "title": "Research Assistant",
+    "affiliation": "VinUniversity, Hanoi, Vietnam",
+    "phone": "(+84) 338070222",
+    "email": "vungocbinh_t67@hus.edu.vn",
+    "avatar_url": ""
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "year": "2022 - 2026",
+        "degree": "B.Sc. in Mathematics",
+        "institution": "Hanoi University of Science (HUS)",
+        "honors": "GPA: 3.58/4.00"
+      },
+      {
+        "year": "2019 - 2022",
+        "degree": "Specialized in Mathematics",
+        "institution": "Vinh Phuc High School for the Gifted"
+      }
+    ]
+  },
+  "employment": {
+    "title": "Employment",
+    "items": [
+      {
+        "year": "Sep 2025 - Sep 2026",
+        "position": "Research Assistant",
+        "institution": "VinUniversity"
+      }
+    ]
+  },
+  "honors_awards_scholarships": {
+    "title": "Honors - Awards - Scholarships",
+    "items": [
+      {
+        "year": "2022",
+        "award": "Bronze Medal",
+        "awarded_by": "International Mathematical Olympiad (IMO)"
+      },
+      {
+        "year": "2021",
+        "award": "Bronze Medal",
+        "awarded_by": "International Mathematical Olympiad (IMO)"
+      }
+    ]
+  },
+  "research_interests": {
+    "title": "Research Interests",
+    "keywords": [
+      "Graph Theory",
+      "Discrete Mathematics",
+      "Coding Theory",
+      "Optimization Combinatorics"
+    ]
+  },
+  "research_experience": {
+    "title": "Research Experience",
+    "sections": [
+      {
+        "subtitle": "Coding Theory",
+        "topics": [
+          {
+            "topic_name": "Research Assistant, VinUniversity",
+            "year": "Sep 2025 - Sep 2026",
+            "bullet_points": [
+              {
+                "description": "Conducted research in coding theory, focusing on Hamming and Levenshtein metrics."
+              },
+              {
+                "description": "Investigated combinatorial structures of intersections of metric balls."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Summer Schools and Research Programs",
+        "topics": [
+          {
+            "topic_name": "Mathematics Summer School, KAIST",
+            "year": "2025",
+            "bullet_points": [
+              {
+                "description": "Completed coursework in partial differential equations, probability, algebra, and mathematical finance."
+              }
+            ]
+          },
+          {
+            "topic_name": "VIASM REU",
+            "year": "2024",
+            "bullet_points": [
+              {
+                "description": "Studied Hausdorff dimension and Falconer-type distance set problems in R^3."
+              }
+            ]
+          },
+          {
+            "topic_name": "VIASM REU",
+            "year": "2023",
+            "bullet_points": [
+              {
+                "description": "Attended advanced lectures and research seminars in mathematics."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "publications": {
+    "title": "Publications",
+    "total_count": 1,
+    "items": [
+      {
+        "id": 1,
+        "year": "2026",
+        "authors": [
+          "Binh Vu",
+          "Shuche Wang",
+          "Van Khu Vu"
+        ],
+        "title": "List Reconstruction Problem with List Size Two",
+        "venue": "ISITA 2026, Japan",
+        "status": "accepted"
+      }
+    ]
+  }
+}
